@@ -1,0 +1,7 @@
+efficientnet_pytorch
+matplotlib
+opencv-python
+scikit-learn
+torch
+torchvision
+tqdm
